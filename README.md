@@ -83,4 +83,5 @@ If you find a better approach or query optimization, feel free to open a **Pull 
 | [0619-biggest-single-number](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
