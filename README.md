@@ -79,6 +79,7 @@ If you find a better approach or query optimization, feel free to open a **Pull 
 | [0595-big-countries](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
