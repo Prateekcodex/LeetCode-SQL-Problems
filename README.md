@@ -88,6 +88,7 @@ If you find a better approach or query optimization, feel free to open a **Pull 
 | [0596-classes-with-at-least-5-students](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0607-sales-person) |
+| [0608-tree-node](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0620-not-boring-movies) |
