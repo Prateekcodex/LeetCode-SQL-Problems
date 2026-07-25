@@ -110,4 +110,5 @@ If you find a better approach or query optimization, feel free to open a **Pull 
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
