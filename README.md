@@ -113,4 +113,5 @@ If you find a better approach or query optimization, feel free to open a **Pull 
 | [1280-students-and-examinations](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1341-movie-rating) |
+| [1393-capital-gainloss](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1393-capital-gainloss) |
 <!---LeetCode Topics End-->
