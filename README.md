@@ -119,6 +119,7 @@ If you find a better approach or query optimization, feel free to open a **Pull 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1407-top-travellers) |
+| [1484-group-sold-products-by-the-date](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1633-percentage-of-users-attended-a-contest) |
