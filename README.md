@@ -118,6 +118,7 @@ If you find a better approach or query optimization, feel free to open a **Pull 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1407-top-travellers) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
