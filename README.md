@@ -124,4 +124,5 @@ If you find a better approach or query optimization, feel free to open a **Pull 
 | [1683-invalid-tweets](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
