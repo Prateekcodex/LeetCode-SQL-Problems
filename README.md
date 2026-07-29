@@ -78,6 +78,7 @@ If you find a better approach or query optimization, feel free to open a **Pull 
 | [0185-department-top-three-salaries](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
