@@ -117,4 +117,5 @@ If you find a better approach or query optimization, feel free to open a **Pull 
 | [1341-movie-rating](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1341-movie-rating) |
 | [1393-capital-gainloss](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1407-top-travellers) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Prateekcodex/LeetCode-SQL-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
